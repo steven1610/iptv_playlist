@@ -69,9 +69,9 @@ https://tvkitaproject.my.id/zee/index.php?c=0-9-priv?hd
 #EXTINF:0 tvg-id="HBO" tvg-logo="" group-title="MOVIES",HBO
 http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0 tvg-id="HBOFAMILY" tvg-logo="" group-title="MOVIES",HBO Family
-https://tvkitaproject.my.id/hbo/index.m3u8?id=famhd
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 #EXTINF:0 tvg-id="HBOHITS" tvg-logo="" group-title="MOVIES",HBO HITS
-https://tvkitaproject.my.id/hbo/index.m3u8?id=hitshd
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 #EXTINF:0 tvg-id="HBOSIGNATURE" tvg-name="" tvg-logo="" group-title="MOVIES",HBO SIGNATURE
 http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:0 tvg-id="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX

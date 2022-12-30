@@ -67,13 +67,13 @@ https://tvkitaproject.my.id/zee/index.php?c=0-9-channel_2105335046
 #EXTINF:0 tvg-id="&PRIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8ojmQVSZJaNZ79JTfqzDvNMD8Za7hnAASA&usqp=CAU" group-title="Movies",&PRIVE
 https://tvkitaproject.my.id/zee/index.php?c=0-9-priv?hd
 #EXTINF:0 tvg-id="HBO" tvg-logo="" group-title="MOVIES",HBO
-https://tvkitaproject.my.id/hbo/index.m3u8?id=hbohd
+http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 #EXTINF:0 tvg-id="HBOFAMILY" tvg-logo="" group-title="MOVIES",HBO Family
 https://tvkitaproject.my.id/hbo/index.m3u8?id=famhd
 #EXTINF:0 tvg-id="HBOHITS" tvg-logo="" group-title="MOVIES",HBO HITS
 https://tvkitaproject.my.id/hbo/index.m3u8?id=hitshd
 #EXTINF:0 tvg-id="HBOSIGNATURE" tvg-name="" tvg-logo="" group-title="MOVIES",HBO SIGNATURE
-https://tvkitaproject.my.id/hbo/index.m3u8?id=sighd
+http://50.7.220.74:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
 #EXTINF:0 tvg-id="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
 https://tvkitaproject.my.id/hbo/index.m3u8?id=maxhd
 #EXTINF:0 tvg-id="BIZKIDS" tvg-logo="" group-title="MOVIES",Biznet Kids

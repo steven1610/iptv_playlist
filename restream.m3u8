@@ -1,0 +1,8 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
+#EXTVLCOPT:http-referer=https://widevine.licenses4.me
+https://newtest.webtv1.lol/lb/premium422/index.m3u8
